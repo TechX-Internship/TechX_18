@@ -1,5 +1,9 @@
 # TechX Project Setup
 
+issue in push code
+project in this repo 
+https://github.com/Meet98787/techx-internship.git
+
 ## Instructions
 
 1. Clone this repository: `git clone https://github.com/TechX-Internship/TechX_18.git`
